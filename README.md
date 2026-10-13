@@ -12,4 +12,4 @@ An educational platform that raises awareness and understanding of genetic disea
 UI/UX design, Python, HTML, CSS, and JavaScript
 
 ## Live site
-https://theveniverse.github.io/REPO-NAME/
+https://hdcx2.github.io/theveniverse/
